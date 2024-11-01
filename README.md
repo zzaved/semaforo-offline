@@ -131,12 +131,16 @@ No código, observa-se que o buzzer emite um alarme sempre que a luz vermelha es
   <p><em>Créditos: material produzido pelo autor (2024)</em></p>
 </div>
 
-## Vídeo
+## Vídeos
 
-Para acessar o vídeo do semáforo em funcionamento, clique [aqui]().
+1. Para acessar o primeiro vídeo do semáforo em funcionamento, clique [aqui](https://github.com/zzaved/semaforo-offline/blob/main/assets/video_semaforo.mp4).
+
+2. Para acessar o segundo vídeo do semáforo em funcionamento, clique [aqui](https://github.com/zzaved/semaforo-offline/blob/main/assets/video2_semaforo.mp4).
 
 ## Conclusão
 
 Este projeto permitiu aplicar a lógica de controle de um semáforo e implementar o circuito físico na protoboard. O código demonstrado e as imagens ilustram o processo e os resultados obtidos, com o semáforo alternando entre as fases de forma contínua e precisa.
 
 ## Avaliação de Pares
+
+_Em breve_
