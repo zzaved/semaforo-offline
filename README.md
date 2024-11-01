@@ -156,7 +156,7 @@ Este projeto permitiu aplicar a lógica de controle de um semáforo e implementa
 
 ## Avaliação 2:
 
-### Avaliador: Heitor Candido 
+### Avaliador: Mariana de Paula 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
 | Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                 3          |
